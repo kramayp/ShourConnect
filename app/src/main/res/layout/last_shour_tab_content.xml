@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background = "@color/last_shour_tab_focused">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="@dimen/tabhost_margin">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/last_shour_tab_content1_left"
+            android:textSize="40dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id ="@+id/last_shour_tab_content1_right"
+            android:layout_marginLeft="@dimen/margin_large"
+            android:layout_gravity="center_vertical"
+            android:textSize = "@dimen/text_last_shour_context_description"
+            android:layout_weight="1"/>
+
+        </LinearLayout>
+
+        <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src = "@drawable/grey_horizontal_line"
+        android:layout_marginLeft="@dimen/margin_large"
+        android:layout_marginRight="@dimen/margin_large"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="@dimen/tabhost_margin">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/last_shour_tab_content2_left"
+            android:textSize="40dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id ="@+id/last_shour_tab_content2_right"
+            android:layout_marginLeft="@dimen/margin_large"
+            android:layout_gravity="center_vertical"
+            android:textSize = "@dimen/text_last_shour_context_description"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src = "@drawable/grey_horizontal_line"
+        android:layout_marginLeft="@dimen/margin_large"
+        android:layout_marginRight="@dimen/margin_large"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="@dimen/tabhost_margin">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/last_shour_tab_content3_left"
+            android:textSize="40dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id ="@+id/last_shour_tab_content3_right"
+            android:layout_marginLeft="@dimen/margin_large"
+            android:layout_gravity="center_vertical"
+            android:textSize = "@dimen/text_last_shour_context_description"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+    <ImageView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:src = "@drawable/grey_horizontal_line"
+    android:layout_marginLeft="@dimen/margin_large"
+    android:layout_marginRight="@dimen/margin_large"/>
+    </LinearLayout>
+
+</LinearLayout>

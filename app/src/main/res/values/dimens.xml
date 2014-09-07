@@ -1,0 +1,26 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fragment_horizontal_margin">4dp</dimen>
+    <dimen name="fragment_vertical_margin">4dp</dimen>
+    <dimen name="margin_small">2dp</dimen>
+    <dimen name="margin_medium_small">4dp</dimen>
+    <dimen name="margin_medium_large">8dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="tabhost_margin">20dp</dimen>
+
+    <!-- buttons -->
+    <dimen name="pre_heat_button_height">60dp</dimen>
+    <dimen name="pre_heat_button_text_size">35dp</dimen>
+
+    <!--Text Sizes -->
+    <dimen name = "text_small">10dp</dimen>
+    <dimen name = "text_medium_small">20dp</dimen>
+    <dimen name = "text_medium_medium">25dp</dimen>
+    <dimen name = "text_medium_large">30dp</dimen>
+    <dimen name = "text_large">50dp</dimen>
+    <dimen name = "text_last_shour_context_description">18dp</dimen>
+    <dimen name = "text_last_shour_context_number">40dp</dimen>
+
+</resources>

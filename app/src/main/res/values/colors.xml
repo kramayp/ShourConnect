@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <color  name = "blue_button_focused">#ff3c7eff</color>
+    <color  name = "blue_button_pressed">#ff9db7ff</color>
+-->
+    <color  name = "blue_button_focused">#ffc9c9c9</color>
+    <color  name = "blue_button_pressed">#ff9db7ff</color>
+
+    <color name = "last_shour_tab_focused">#c8e1e1e1</color>
+    <color name = "last_shour_tab_not_focused">#c8c8c8c8</color>
+
+</resources>

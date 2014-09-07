@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shour Connect</string>
+    <string name="title_goals_section">Goals</string>
+    <string name="title_last_shour_section">Last Shour</string>
+    <string name="title_shour_control_section">Shour Control</string>
+    <string name="title_shour_history_section">Shour History</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
